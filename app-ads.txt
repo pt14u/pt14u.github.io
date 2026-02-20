@@ -1,4 +1,4 @@
-unity3d.com, 18968364334231, DIRECT, c3676236b2803b9b
+unity3d.com, 18968364334231, DIRECT, c9906663c637497d
 adagio.io, 1522, RESELLER
 
 adagio.io, 1575, RESELLER
@@ -278,3 +278,4 @@ zmaticoo.com, 5135004, RESELLER
 Autodetection and update
 Simplify your project setup using the latest data from Unity Ads SDK to optimize business performance
 Store IDs
+
